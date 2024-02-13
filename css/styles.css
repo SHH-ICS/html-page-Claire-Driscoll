@@ -1,1 +1,7 @@
-
+body {
+  background-color: light red;
+}
+p {
+  text-align: left;
+ color: blue;
+}
