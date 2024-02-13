@@ -2,6 +2,8 @@ body {
   background-color: light red;
 }
 p {
-  text-align: left;
+ text-align: left;
  color: blue;
-}
+ font-family: georgia;
+ font-size: 20px;
+ }
